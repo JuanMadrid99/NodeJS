@@ -1,0 +1,3 @@
+# vamos a simular una solicitud POST 
+POST http://localhost:3000/  
+# se puede ver el metodo en la terminal, puede ser put and delete tambien 
